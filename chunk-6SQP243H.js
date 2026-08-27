@@ -1,1 +1,0 @@
-import{D as n,ea as i,tc as a}from"./chunk-CHXSSYJL.js";function p(e,r){return e==null?"":typeof e=="string"?e:e[r]||e.ar||e.en||""}var o=class e{lang=n(a);transform(r,t){return t?this.lang.lang()=="ar"?t:r:p(r,this.lang.lang())}static \u0275fac=function(t){return new(t||e)};static \u0275pipe=i({name:"localized",type:e,pure:!0})};export{p as a,o as b};

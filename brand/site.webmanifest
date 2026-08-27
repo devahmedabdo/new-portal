@@ -1,0 +1,17 @@
+{
+  "name": "RETM Portal",
+  "short_name": "RETM",
+  "icons": [
+    {
+      "src": "/brand/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ],
+  "theme_color": "#36b77a",
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "lang": "ar",
+  "dir": "rtl"
+}

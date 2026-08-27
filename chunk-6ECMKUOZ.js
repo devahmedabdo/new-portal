@@ -1,0 +1,1 @@
+import{c as n}from"./chunk-CZIXXDCQ.js";import{D as r,ic as e}from"./chunk-XGTSVO4W.js";function u(...t){return()=>{let o=r(n),i=r(e);return o.hasAny(t)?!0:i.createUrlTree(["/forbidden"])}}export{u as a};

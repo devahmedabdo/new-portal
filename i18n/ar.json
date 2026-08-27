@@ -563,6 +563,7 @@
       "fields": {
         "client": "العميل",
         "lastPeriodic": "آخر متابعة دورية",
+        "periodicStatus": "حالة المتابعة",
         "lastContact": "آخر تواصل",
         "nextContact": "التواصل القادم",
         "expiresAt": "تاريخ الانتهاء",
